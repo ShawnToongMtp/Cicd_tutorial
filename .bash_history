@@ -158,3 +158,26 @@ sudo apt update ; sudo apt install git -y
 git config --global user.name "Hong Phuoc"
 git config --global user.email "phuocb2111945@student.ctu.edu.vn"
 mv ~/cicd_tutorial
+mv ~/cicd_tutorial
+cd
+mv ~/cicd_tutorial
+git clone https://github.com/ShawnToongMtp/cicd_tutorial
+mv ~/cicd_tutorial
+mv /cicd_tutorial
+mv cicd_tutorial
+mv --help
+clear
+mv ~/cicd_tutorial
+[200~mv ~/cicd_tutorial /home/phuocb2111945/new_location
+mv ~/cicd_tutorial /home/phuocb2111945/new_location
+mv ~/cicd_tutorial
+mv ~/cicd_tutorial /home/phuocb2111945
+git init
+git add .
+git commit -m "first commit"
+mv ~/cicd_tutorial
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/ShawnToongMtp/Cicd_tutorial
+git push -u origin master

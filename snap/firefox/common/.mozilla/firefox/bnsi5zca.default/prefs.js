@@ -60,7 +60,7 @@ user_pref("distribution.iniFile.exists.appversion", "125.0.2");
 user_pref("distribution.iniFile.exists.value", true);
 user_pref("doh-rollout.doneFirstRun", true);
 user_pref("doh-rollout.home-region", "VN");
-user_pref("dom.push.userAgentID", "99b9f1c2f00a4f37a776cf8ab15fde22");
+user_pref("dom.push.userAgentID", "dc05857629134e408d6e6b923a79b784");
 user_pref("extensions.activeThemeID", "default-theme@mozilla.org");
 user_pref("extensions.blocklist.pingCountVersion", 0);
 user_pref("extensions.databaseSchema", 35);
@@ -104,7 +104,7 @@ user_pref("services.settings.blocklists.addons-bloomfilters.last_check", 1729135
 user_pref("services.settings.blocklists.gfx.last_check", 1729135936);
 user_pref("services.settings.clock_skew_seconds", 0);
 user_pref("services.settings.last_etag", "\"1729153910697\"");
-user_pref("services.settings.last_update_seconds", 1729154261);
+user_pref("services.settings.last_update_seconds", 1729154565);
 user_pref("services.settings.main.addons-manager-settings.last_check", 1729135936);
 user_pref("services.settings.main.anti-tracking-url-decoration.last_check", 1729135936);
 user_pref("services.settings.main.cfr.last_check", 1729135936);
