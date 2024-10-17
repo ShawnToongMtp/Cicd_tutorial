@@ -1,0 +1,9 @@
+[user]
+	name = Hong Phuoc
+	email = phuocb2111945@student.ctu.edu.vn
+[sendemail]
+    smtpserver = smtp.googlemail.com
+    smtpencryption = tls
+    smtpserverport = 587
+   smtpuser = phuocb2111945@student.ctu.edu.vn
+	confirm = auto

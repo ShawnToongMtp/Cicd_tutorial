@@ -1,0 +1,6 @@
+#.git/config
+[sendemail]
+    smtpserver = smtp.googlemail.com
+    smtpencryption = tls
+    smtpserverport = 587
+   smtpuser = phuocb2111945@student.ctu.edu.vn
