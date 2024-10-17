@@ -1,39 +1,3 @@
-[2024-10-07-23-00-02-059]
-Actions=@Invalid()
-Application=lxqt-powermanagement
-Body=Charging (59%)
-Hints=@Variant(\0\0\0\b\0\0\0\0)
-Icon=lxqt-powermanagement
-Summary=Battery Present
-TimeOut=10000
-
-[2024-10-07-23-00-12-471]
-Actions=@Invalid()
-Application=lubuntu-update
-Body="Updates available!<br/><br/>301 to upgrade, 6 to install, and 1 to remove.<br/><br/>Click the tray icon to install the updates."
-Hints=@Variant(\0\0\0\b\0\0\0\0)
-Icon=dialog-information
-Summary=
-TimeOut=10000
-
-[2024-10-07-23-15-03-473]
-Actions=@Invalid()
-Application=NetworkManager(nm-tray)
-Body=No longer connected to 802-3-ethernet 'Wired connection 1'.
-Hints=@Variant(\0\0\0\b\0\0\0\0)
-Icon=network-wired
-Summary=Connection lost
-TimeOut=10000
-
-[2024-10-07-23-15-03-661]
-Actions=@Invalid()
-Application=NetworkManager(nm-tray)
-Body=Now connected to 802-3-ethernet 'Wired connection 1'.
-Hints=@Variant(\0\0\0\b\0\0\0\0)
-Icon=network-wired
-Summary=Connection established
-TimeOut=10000
-
 [2024-10-08-07-34-08-067]
 Actions=@Invalid()
 Application=lxqt-config-monitor
@@ -86,4 +50,40 @@ Body="Updates available!<br/><br/>205 to upgrade, 7 to install, and 0 to remove.
 Hints=@Variant(\0\0\0\b\0\0\0\0)
 Icon=dialog-information
 Summary=
+TimeOut=10000
+
+[2024-10-17-15-49-52-983]
+Actions=@Invalid()
+Application=lxqt-powermanagement
+Body=Charging (59%)
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=lxqt-powermanagement
+Summary=Battery Present
+TimeOut=10000
+
+[2024-10-17-20-22-16-691]
+Actions=@Invalid()
+Application=lxqt-powermanagement
+Body=Charging (59%)
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=lxqt-powermanagement
+Summary=Battery Present
+TimeOut=10000
+
+[2024-10-17-20-22-27-118]
+Actions=@Invalid()
+Application=lubuntu-update
+Body="Updates available!<br/><br/>205 to upgrade, 7 to install, and 0 to remove.<br/><br/>Click the tray icon to install the updates."
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=dialog-information
+Summary=
+TimeOut=10000
+
+[2024-10-17-20-44-43-118]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings.
 TimeOut=10000

@@ -5916,3 +5916,1627 @@ Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Xsession: X session started for phuocb2111945 at Thứ năm, 17 Tháng 10 năm 2024 15:49:24 +07
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_RrpdUn
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+localuser:phuocb2111945 being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting LC_ADDRESS=vi_VN
+dbus-update-activation-environment: setting LC_NAME=vi_VN
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=vi_VN
+dbus-update-activation-environment: setting PWD=/home/phuocb2111945
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=LXQt
+dbus-update-activation-environment: setting LOGNAME=phuocb2111945
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_RrpdUn
+dbus-update-activation-environment: setting HOME=/home/phuocb2111945
+dbus-update-activation-environment: setting LC_PAPER=vi_VN
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=vi_VN
+dbus-update-activation-environment: setting USER=phuocb2111945
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting LC_TELEPHONE=vi_VN
+dbus-update-activation-environment: setting LC_MEASUREMENT=vi_VN
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=vi_VN
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=vi_VN
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+dbus-daemon[1365]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1357 comm="/usr/bin/lxqt-notificationd" label="unconfined")
+New PolkitAgentListener  0x5af3ae6f9520
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffd682499e0) for  0x5af3ae6f9520
+dbus-daemon[1365]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+isPrimaryInstance
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+[Notice] Started
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+blueman-applet 15.49.38 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 15.49.39 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+systemd: "CanHibernate" = "na"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+starting
+systemd: "CanPowerOff" = "yes"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+WinIdChange 1200008 handle QWidgetWindow(0x585f22966c90, name="LXQtPanel panel1Window") QScreen(0x585f2267e140, name="Virtual1")
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+QDBusConnection: name 'org.freedesktop.UPower' had owner '' but we thought it was ':1.49'
+StatusNotifierProxy, services: ()
+Manager selection claimed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+BatteryChanged discharging: false chargeLevel: 59 actionTime: QTime(Invalid)
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibernateButton" "" ""
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+trying to dock window  8388614
+adding damage watch for  8388614
+Container window visible, stack below
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.Menu was not found in object /StatusNotifierItem)
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconThemePath was not found in object /StatusNotifierItem)
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.ToolTip was not found in object /StatusNotifierItem)
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.OverlayIconName was not found in object /StatusNotifierItem)
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconName was not found in object /StatusNotifierItem)
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.AttentionIconName was not found in object /StatusNotifierItem)
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.OverlayIconPixmap was not found in object /StatusNotifierItem)
+Error on DBus request(:1.45,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.AttentionIconPixmap was not found in object /StatusNotifierItem)
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+trying to undock window  8388614
+Service ":1.45" unregistered
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+trying to dock window  8388642
+adding damage watch for  8388642
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Container window visible, stack below
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.Menu was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconThemePath was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.ToolTip was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.OverlayIconName was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconName was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.AttentionIconName was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconThemePath was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.ToolTip was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.OverlayIconPixmap was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.AttentionIconPixmap was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconName was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconThemePath was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.ToolTip was not found in object /StatusNotifierItem)
+Error on DBus request(:1.46,/StatusNotifierItem): QDBusError(org.freedesktop.DBus.Error.UnknownProperty, Property org.kde.StatusNotifierItem.IconName was not found in object /StatusNotifierItem)
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+blueman-applet 15.50.04 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+execAction "/var/lib/snapd/desktop/applications/firefox_firefox.desktop"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot open directory "/usr/local/share": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gtk-doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+[Parent 1555, Main Thread] WARNING: Failed to parse /etc/xdg/xdg-Lubuntu/gtk-3.0/settings.ini: Permission denied: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1555): Gtk-WARNING **: 15:52:05.581: Failed to parse /etc/xdg/xdg-Lubuntu/gtk-3.0/settings.ini: Permission denied
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+[Parent 1555, Main Thread] WARNING: Failed to mkdir /home/phuocb2111945/snap/firefox/4173/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1555): IBUS-WARNING **: 15:52:07.772: Failed to mkdir /home/phuocb2111945/snap/firefox/4173/.config/ibus/bus: Not a directory
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xsession: X session started for phuocb2111945 at Thứ năm, 17 Tháng 10 năm 2024 20:21:59 +07
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_XtQgFP
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+localuser:phuocb2111945 being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting LC_ADDRESS=vi_VN
+dbus-update-activation-environment: setting LC_NAME=vi_VN
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=vi_VN
+dbus-update-activation-environment: setting PWD=/home/phuocb2111945
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=LXQt
+dbus-update-activation-environment: setting LOGNAME=phuocb2111945
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/tmp/xauth_XtQgFP
+dbus-update-activation-environment: setting HOME=/home/phuocb2111945
+dbus-update-activation-environment: setting LC_PAPER=vi_VN
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=LXQt
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=vi_VN
+dbus-update-activation-environment: setting USER=phuocb2111945
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting LC_TELEPHONE=vi_VN
+dbus-update-activation-environment: setting LC_MEASUREMENT=vi_VN
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=vi_VN
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=vi_VN
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+New PolkitAgentListener  0x5c1d03db0cf0
+Adding new listener  PolkitQt1::Agent::Listener(0x7fffe366f6c0) for  0x5c1d03db0cf0
+dbus-daemon[1336]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1346 comm="/usr/bin/lxqt-notificationd" label="unconfined")
+dbus-daemon[1336]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+isPrimaryInstance
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+blueman-applet 20.22.05 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 20.22.05 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+systemd: "CanHibernate" = "na"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+starting
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+WinIdChange 1200008 handle QWidgetWindow(0x60c9938c23b0, name="LXQtPanel panel1Window") QScreen(0x60c9935db140, name="Virtual1")
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+QDBusConnection: name 'org.freedesktop.UPower' had owner '' but we thought it was ':1.47'
+StatusNotifierProxy, services: ()
+Manager selection claimed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+[Notice] Started
+BatteryChanged discharging: false chargeLevel: 59 actionTime: QTime(Invalid)
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibernateButton" "" ""
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+execAction "/var/lib/snapd/desktop/applications/firefox_firefox.desktop"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot open directory "/usr/local/share": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gtk-doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+[Parent 1525, Main Thread] WARNING: Failed to parse /etc/xdg/xdg-Lubuntu/gtk-3.0/settings.ini: Permission denied: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1525): Gtk-WARNING **: 20:22:22.475: Failed to parse /etc/xdg/xdg-Lubuntu/gtk-3.0/settings.ini: Permission denied
+[Parent 1525, Main Thread] WARNING: Failed to mkdir /home/phuocb2111945/snap/firefox/4173/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1525): IBUS-WARNING **: 20:22:23.614: Failed to mkdir /home/phuocb2111945/snap/firefox/4173/.config/ibus/bus: Not a directory
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+blueman-applet 20.22.34 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+libEGL warning: DRI2: failed to authenticate
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Default monitor settings have been applied. Use lxqt-config-monitor for adjusting your monitor settings." is already registered but this request is not an update. Broken app?
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+pcmanfm-qt /home/phuocb2111945
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+show hidden: 1
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.037: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.038: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.039: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.150: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:06.151: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+pcmanfm-qt computer:///
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: GFileInfo created without standard::is-hidden
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: file ../../../gio/gfileinfo.c: line 1632 (g_file_info_get_is_hidden): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.250: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: GFileInfo created without standard::is-hidden
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: file ../../../gio/gfileinfo.c: line 1632 (g_file_info_get_is_hidden): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.266: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: GFileInfo created without standard::is-hidden
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: file ../../../gio/gfileinfo.c: line 1632 (g_file_info_get_is_hidden): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.269: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::is-hidden
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1632 (g_file_info_get_is_hidden): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::size
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::content-type
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1821 (g_file_info_get_content_type): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::is-symlink
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1676 (g_file_info_get_is_symlink): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::is-hidden
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1632 (g_file_info_get_is_hidden): should not be reached
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: GFileInfo created without standard::is-backup
+
+(process:1343): GLib-GIO-CRITICAL **: 20:53:12.270: file ../../../gio/gfileinfo.c: line 1654 (g_file_info_get_is_backup): should not be reached
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+operation finished: 0x757bc4002b00
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+delete MountOperation
+operation finished: 0x757bc400be50
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+delete MountOperation
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+newGroupPermSel: 2
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+QObject::connect: Cannot queue arguments of type 'GErrorPtr'
+(Make sure 'GErrorPtr' is registered using qRegisterMetaType().)
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161

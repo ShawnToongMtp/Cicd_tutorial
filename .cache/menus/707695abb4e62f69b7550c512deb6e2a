@@ -1091,6 +1091,20 @@ openbox
 
 
 wm,windowmanager,window,manager,gnome
+-openjdk-11-java.desktop
+OpenJDK Java 11 Runtime
+OpenJDK Java 11 Runtime
+openjdk-11
+
+8
+
+cautious-launcher %f /usr/bin/java -jar
+4
+0
+
+
+
+java,runtime
 -openstreetmap-geo-handler.desktop
 OpenStreetMap
 
@@ -1370,7 +1384,7 @@ program,software,repository,package,add,install,uninstall,remove,update,apps,app
 -firmware-updater_firmware-updater-app.desktop
 Firmware Updater
 Manage firmware on your device
-/snap/firmware-updater/127/meta/gui/icon.png
+/snap/firmware-updater/147/meta/gui/icon.png
 
 10
 
@@ -1384,7 +1398,7 @@ firmware
 -firmware-updater_firmware-updater.desktop
 Firmware Updater
 Manage firmware on your device
-/snap/firmware-updater/127/meta/gui/icon.png
+/snap/firmware-updater/147/meta/gui/icon.png
 
 10
 
